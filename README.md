@@ -1,4 +1,4 @@
-# rblx-tracker
+# roblox tracker
 
 A background script that watches a list of Roblox users and tells you when
 something about them changes. Goes online, joins a game, earns a badge, edits
